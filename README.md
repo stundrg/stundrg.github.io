@@ -22,8 +22,15 @@ https://pnpm.io/ko/
 - connecting to localhost 8080
 - node.js install if you have get error 'ELIFECYCLE Command failed'
 ```
+$ nvm install --lts
+$ nvm use
+$ node -v
+v22.13.0
+
+$ pnpm install
 pnpm install
 pnpm docs:dev
+-   Local: http://localhost:8080/
 ```
 
 ### build & deploy
