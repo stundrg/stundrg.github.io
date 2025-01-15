@@ -9,7 +9,7 @@ export default defineUserConfig({
   
   lang: 'en-US',
 
-  title: 'team TIGER',
+  title: 'team SunSin',
   description: "cashmallow dev team's technology blog about wanting to contribute to the open source ecosystem",
 
   head: [
@@ -63,8 +63,8 @@ export default defineUserConfig({
       },
     },
 
-    logo: "/images/tiger-stern.svg",
-    logoDark: "/images/tiger-cute.svg",
+    logo: "/images/turtle.jpg",
+    logoDark: "/images/Darkturtle.webp",
 
     repo: "https://github.com/oss-cashmallow/oss-cashmallow.github.io/discussions",
     repoLabel: "discussions",
