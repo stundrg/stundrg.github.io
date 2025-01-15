@@ -4,8 +4,10 @@
 <img src="http://oss.cashmallow.com/images/tiger-cute.svg" alt="tiger cute" style="width:200px;"/>
 
 ### Connecting
-- PRD - https://team-calcalhan.store
-- STG - -https://team-sunsin.web.app-
+- PRD - https://team-calcalhan.store, https://stundrg.github.io/
+- STG - https://blog-30d77.web.app/
+- DEV - ?
+- LOCAL - http://localhost:8000
 
 ### Contribute guide
 - Anyone can do it's possible. Let's send the PR first and make it a better team by joining.
@@ -46,17 +48,12 @@ $ firebase deploy
 
 git checkout HEAD -- docs/
 $ sh deploy-stg.sh
-
-docs/team/how2pr/ 제거
-╞╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╡╞╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╡
-STG DEPLOY OK!
-https://oss-cashmallow.web.app
 ```
 
 2. PRD
+```bash
 - github pages -> docs
-- sh prd-build.sh -> push -> pr merge -> deploy - end
-- https://oss.cashmallow.com
-
-<img src="https://user-images.githubusercontent.com/120996497/212484360-1b212db0-5a5c-449f-8cc2-35de2126bd66.png" alt="cashmallow" style="width:600px;"/>
-<img src="https://oss-cashmallow.github.io/images/hero.png" alt="cashmallow" style="width:200px;"/>
+$ pnpm docs:build
+$ git add .; git commit -a; git push
+- https://team.calcalhan.store
+```
