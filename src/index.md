@@ -1,10 +1,10 @@
 ---
 home: true
 
-heroImage: /images/hero.png
-heroImageDark: /images/hero.png
+heroImage: /images/turtle.jpg
+heroImageDark: /images/Darkturtle.webp
 
-heroText: 'tech blog@cashmallow'
+heroText: 'tech blog@sunsin.shop'
 title: tech blog
 
 tagline: cashmallow dev team's technology blog about wanting to contribute to the open source ecosystem
