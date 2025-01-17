@@ -10,12 +10,12 @@ title: tech blog
 tagline: cashmallow dev team's technology blog about wanting to contribute to the open source ecosystem
 
 actions:
-  - text: tech SHARE
-    link: /tech/share
+  - text: Github
+    link: https://github.com/stundrg
     type: primary
   
-  - text: team SunSin
-    link: /team/tiger
+  - text: Resume
+    link: /resume
     type: secondary
 
   - text: open SOURCE
@@ -30,5 +30,5 @@ features:
 - title: mallowLINK
   details: Traveler's Exchange System Using Overseas Remittance, Network Solution for Financial Institutions
 
-footer: THE TIGER@cashmallow who has returned the favor. 2016.
+footer: blog@stundrg. 2025.
 ---
