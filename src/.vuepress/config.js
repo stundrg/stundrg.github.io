@@ -10,12 +10,12 @@ export default defineUserConfig({
   lang: 'en-US',
 
   title: 'team SunSin',
-  description: "나는 데이터 엔지니어다.",
+  description: "주입중... 나는 데이터 엔지니어다.",
 
   head: [
     ['meta', { property: 'og:type', content: 'website' }],
     ['meta', { property: 'og:title', content: 'tech-blog:Stundrg' }],
-    ['meta', { property: 'og:description', content: "나는 데이터 엔지니어다." }],
+    ['meta', { property: 'og:description', content: "주입중... 나는 데이터 엔지니어다." }],
     ['meta', { property: 'og:image', content: 'https://stundrg.github.io/images/repository-open-graph-stundrg.png' }],
     ['meta', { property: 'og:url', content: 'https://github.com/stundrg/stundrg.github.io' }],
   ],
@@ -66,7 +66,7 @@ export default defineUserConfig({
     logo: "/images/turtle.jpg",
     logoDark: "/images/Darkturtle.webp",
 
-    repo: "https://github.com/oss-cashmallow/oss-cashmallow.github.io/discussions",
+    repo: "https://github.com/stundrg/stundrg.github.io/description",
     repoLabel: "discussions",
 
     contributors: false,
@@ -99,7 +99,7 @@ export default defineUserConfig({
           collapsible: true,	
           children: [
             "/team/tiger/",
-            "/src/resume/",
+            "/team/recruit/",
             "/team/how2pr/",
             "/team/tiger2agile/",
           ],
