@@ -55,5 +55,5 @@ $ sh deploy-stg.sh
 - github pages -> docs
 $ pnpm docs:build
 $ git add .; git commit -a; git push
-- https://team.calcalhan.store
+- https://tech.calcalhan.store
 ```
