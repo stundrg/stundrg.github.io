@@ -81,8 +81,8 @@ export default defineUserConfig({
     colorModeSwitch: true,
 
     navbar: [
-      { text: "cashmallow", link: "https://www.cashmallow.com" },
-      { text: "recruit", link: "/team/recruit/" },
+      { text: "101", link: "https://github.com/ppabam/101/issues" },
+      { text: "resume", link: "/src/resume" },
     ],
 
     sidebar: {
@@ -96,10 +96,10 @@ export default defineUserConfig({
         },
         {
           text: "team",
-          collapsible: true,
+          collapsible: true,	
           children: [
             "/team/tiger/",
-            "/team/recruit/",
+            "/src/resume/",
             "/team/how2pr/",
             "/team/tiger2agile/",
           ],
