@@ -24,7 +24,7 @@ actions:
 
 features:
 - title: team SunSin
-  details: Cashmallow Development Team. A person-centered devops-friendly software developer organization that makes and operates more than customers want one step faster than the market.
+  details: 노량진에서 공부하는 부트캠프 강하다! 개발팀원들. 싸우자! 취업 시장! 이기자!
 - title: cashmallow
   details: troublesome currency exchange that had to do before departue. start a reliable trip by using Cashmallow exchange service.
 - title: mallowLINK

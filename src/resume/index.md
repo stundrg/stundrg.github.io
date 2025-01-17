@@ -10,24 +10,25 @@
 
 ## Executive Summary
 
-* 10 years project/team management experience
-* PMP, OCP, AWS Certification
-* Hand-on experience in oracle database
-* Proficient in JavaScript, Java, Powerbuilder
+* Communication skills developed through approximately 3 years of QA experience.
+* PMP, OCP, AWS Certification -
+* Hand-on experience in oracle database -
+* Proficient in JavaScript, Java, Powerbuilder -
 
 ## Working Experience
 
-#### Current Company (Project Manager, 2015/08 - present) 
+#### Who do I want to become?  ( Of a certain company - Data Engineer, 2025 ~  ) 
 
-* Lead team of 10 to oversee conception, requirement gathering, documentation and rollout.
-* Conduct troubleshooting, analysis and support. Gather user feedback, document bugs and change requests.
+* A skilled data engineer dedicated to building robust data pipelines, ensuring efficient data flow, and enabling insightful analysis to drive better decision-making for any company
+* I will absorb every data technology I am learning like a sponge, mastering each one to fully integrate them into my skillset and drive impactful results.
 
-#### Second Company (System Analyst, 2011/06 - 2015/07) 
+#### Second Company ( Wellbia -  Quality Assurance, 2022/11 - 2024/11) 
 
-* Led team of 5 for application development
-* Coordinated with developers, support staff and vendors across Hong Kong, China, Taiwan
+* Efficiently managed and processed incoming tests across multiple systems simultaneously, ensuring seamless performance and reliability.
+* Specialized in setting up and providing environments to reproduce and resolve issues reported by external partners, ensuring effective troubleshooting and collaboration.
+* I consistently ensured clear communication, promptly notifying the team of errors or issues and verifying alignment with support team findings to facilitate efficient resolution.
 
-#### My first Company (Quality Assurance , Part-time job 2022/01 - 2022/07)
+#### My first Company ( Hyosung TNS - Quality Assurance , Part-time job 2022/01 - 2022/07)
 
 * I tested ATM machines and gained experience troubleshooting and simulating scenarios in a Linux environment.
 
