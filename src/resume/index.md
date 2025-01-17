@@ -27,9 +27,9 @@
 * Led team of 5 for application development
 * Coordinated with developers, support staff and vendors across Hong Kong, China, Taiwan
 
-#### My first Company (Analyst Programmer, 2005/01 - 2011/05)
+#### My first Company (Quality Assurance , Part-time job 2022/01 - 2022/07)
 
-* Develop multiple applications using Javascript, Java, PHP, Powerbuilder, Oracle
+* I tested ATM machines and gained experience troubleshooting and simulating scenarios in a Linux environment.
 
 ## Projects: 
 
