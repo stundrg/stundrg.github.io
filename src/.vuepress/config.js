@@ -10,14 +10,14 @@ export default defineUserConfig({
   lang: 'en-US',
 
   title: 'team SunSin',
-  description: "cashmallow dev team's technology blog about wanting to contribute to the open source ecosystem",
+  description: "나는 데이터 엔지니어다.",
 
   head: [
     ['meta', { property: 'og:type', content: 'website' }],
-    ['meta', { property: 'og:title', content: 'tech-blog:cashmallow' }],
-    ['meta', { property: 'og:description', content: "cashmallow dev team's technology blog about wanting to contribute to the open source ecosystem" }],
-    ['meta', { property: 'og:image', content: 'https://user-images.githubusercontent.com/120996497/209457891-2c91f7fe-514d-4431-bfcb-7f6ee72ed8ee.png' }],
-    ['meta', { property: 'og:url', content: 'https://oss.cashmallow.com' }],
+    ['meta', { property: 'og:title', content: 'tech-blog:Stundrg' }],
+    ['meta', { property: 'og:description', content: "나는 데이터 엔지니어다." }],
+    ['meta', { property: 'og:image', content: 'https://stundrg.github.io/images/repository-open-graph-stundrg.png' }],
+    ['meta', { property: 'og:url', content: 'https://github.com/stundrg/stundrg.github.io' }],
   ],
   
   locales: {
