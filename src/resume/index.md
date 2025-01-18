@@ -47,5 +47,5 @@
 
 ## Misc. Information
 
-* Languages: English (good), Cantonese (fluent/native), Mandarin (good)
+* Languages: korean (Not bad)
 * Availability: 1 month's notice
