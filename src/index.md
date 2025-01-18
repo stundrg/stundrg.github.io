@@ -7,7 +7,7 @@ heroImageDark: /images/Darkturtle.webp
 heroText: 'stundrg@sunsin'
 title: tech blog
 
-tagline: cashmallow dev team's technology blog about wanting to contribute to the open source ecosystem
+tagline: 노량진에서 함께 공부하는 개발팀 입니다. "팀 순신샵" 모두 화이팅
 
 actions:
   - text: Github

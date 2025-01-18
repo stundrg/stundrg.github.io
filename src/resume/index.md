@@ -11,9 +11,9 @@
 ## Executive Summary
 
 * Communication skills developed through approximately 3 years of QA experience.
-* PMP, OCP, AWS Certification -
-* Hand-on experience in oracle database -
-* Proficient in JavaScript, Java, Powerbuilder -
+* My proactive problem-solving minimized risks, resolved critical issues early, and streamlined operations.
+* Driven by a passion for log analysis, I am transitioning to data engineering to apply my problem-solving skills.
+* I excel at calmly assessing situations and resolving challenges effectively, demonstrating reliability and adaptability in any task.
 
 ## Working Experience
 
@@ -43,7 +43,7 @@
 * Oracle Certified Professional (2020/02)
 * Project Management Professional (PMP) (2018/10)
 * Bachelor of Computer Science (Sep 2004)
-* The Chinese University of Hong Kong (2000 - 2004)
+* Duwon University of Science and Technology of Anseong (2020 - 2022)
 
 ## Misc. Information
 
