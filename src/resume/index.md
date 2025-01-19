@@ -11,9 +11,9 @@
 ## Executive Summary
 
 * Communication skills developed through approximately 3 years of QA experience.
-* PMP, OCP, AWS Certification -
-* Hand-on experience in oracle database -
-* Proficient in JavaScript, Java, Powerbuilder -
+* My proactive problem-solving minimized risks, resolved critical issues early, and streamlined operations.
+* Driven by a passion for log analysis, I am transitioning to data engineering to apply my problem-solving skills.
+* I excel at calmly assessing situations and resolving challenges effectively, demonstrating reliability and adaptability in any task.
 
 ## Working Experience
 
@@ -32,20 +32,19 @@
 
 * I tested ATM machines and gained experience troubleshooting and simulating scenarios in a Linux environment.
 
-## Projects: 
+## Projects 
 
-* [Casual-Markdown](https://github.com/casualwriter/powerpage) - a lightweight markdown parser
-* [Powerpage](https://github.com/casualwriter/powerpage) - a lightweight browser for html applications
+* Smart Farm Using Arduino
 
-## Education & Qualifications
+## Tool Used
 
-* AWS Certification (2021/12)
-* Oracle Certified Professional (2020/02)
-* Project Management Professional (PMP) (2018/10)
-* Bachelor of Computer Science (Sep 2004)
-* The Chinese University of Hong Kong (2000 - 2004)
+* Issue Tracking Tools, Documentation Tools - Redmine, Notion
+* Communication Tools - Slack(Little), Teams
+* Build Tools - Jenkins, Github action
+* Other Tools - Internal Tools
+
 
 ## Misc. Information
 
-* Languages: korean (Not bad)
+* Languages: korean (good)
 * Availability: 1 month's notice

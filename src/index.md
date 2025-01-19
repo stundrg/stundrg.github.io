@@ -1,13 +1,13 @@
 ---
 home: true
 
-heroImage: /images/turtle.jpg
-heroImageDark: /images/Darkturtle.webp
+heroImage: /images/fun.jpg
+heroImageDark: /images/why.jpg
 
 heroText: 'stundrg@sunsin'
 title: tech blog
 
-tagline: cashmallow dev team's technology blog about wanting to contribute to the open source ecosystem
+tagline: We are a dedicated development team studying together at the Noryangjin bootcamp. Let’s go Team SoonShinShop – we’ve got this!
 
 actions:
   - text: Github
@@ -19,14 +19,14 @@ actions:
     type: secondary
 
   - text: open SOURCE
-    link: /tech/share/opensource
+    link: https://www.notion.so/QA-Test-Guide-aa970eb03fe94553bc9ef06ad5b27994?pvs=4
     type: secondary
 
 features:
+- title: Introduce stundrg
+  details: Driven by my passion for continuous learning, I transitioned from a smaller regional university to enhance my skills in data analysis. With 2.5 years of experience as a QA professional, I am now deepening my expertise at a competitive bootcamp in Noryangjin, focused on data-driven technologies and methodologies.
 - title: team SunSin
-  details: 노량진에서 공부하는 부트캠프 강하다! 개발팀원들. 싸우자! 취업 시장! 이기자!
-- title: cashmallow
-  details: troublesome currency exchange that had to do before departue. start a reliable trip by using Cashmallow exchange service.
+  details: I’m putting in my best efforts at the bootcamp in Noryangjin, fully committed to preparing for the challenges of the job market and aiming for success!
 - title: mallowLINK
   details: Traveler's Exchange System Using Overseas Remittance, Network Solution for Financial Institutions
 
