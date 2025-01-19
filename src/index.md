@@ -7,7 +7,7 @@ heroImageDark: /images/Darkturtle.webp
 heroText: 'stundrg@sunsin'
 title: tech blog
 
-tagline: 노량진에서 함께 공부하는 개발팀 입니다. "팀 순신샵" 모두 화이팅
+tagline: We are a dedicated development team studying together at the Noryangjin bootcamp. Let’s go Team SoonShinShop – we’ve got this!
 
 actions:
   - text: Github
@@ -23,10 +23,10 @@ actions:
     type: secondary
 
 features:
+- title: Introduce stundrg
+  details: Driven by my passion for continuous learning, I transitioned from a smaller regional university to enhance my skills in data analysis. With 2.5 years of experience as a QA professional, I am now deepening my expertise at a competitive bootcamp in Noryangjin, focused on data-driven technologies and methodologies.
 - title: team SunSin
-  details: 노량진에서 공부하는 부트캠프 강하다! 개발팀원들. 싸우자! 취업 시장! 이기자!
-- title: cashmallow
-  details: troublesome currency exchange that had to do before departue. start a reliable trip by using Cashmallow exchange service.
+  details: I’m putting in my best efforts at the bootcamp in Noryangjin, fully committed to preparing for the challenges of the job market and aiming for success!
 - title: mallowLINK
   details: Traveler's Exchange System Using Overseas Remittance, Network Solution for Financial Institutions
 

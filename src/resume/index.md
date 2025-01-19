@@ -32,20 +32,19 @@
 
 * I tested ATM machines and gained experience troubleshooting and simulating scenarios in a Linux environment.
 
-## Projects: 
+## Projects 
 
-* [Casual-Markdown](https://github.com/casualwriter/powerpage) - a lightweight markdown parser
-* [Powerpage](https://github.com/casualwriter/powerpage) - a lightweight browser for html applications
+* Smart Farm Using Arduino
 
-## Education & Qualifications
+## Tool Used
 
-* AWS Certification (2021/12)
-* Oracle Certified Professional (2020/02)
-* Project Management Professional (PMP) (2018/10)
-* Bachelor of Computer Science (Sep 2004)
-* Duwon University of Science and Technology of Anseong (2020 - 2022)
+* Issue Tracking Tools, Documentation Tools - Redmine, Notion
+* Communication Tools - Slack(Little), Teams
+* Build Tools - Jenkins, Github action
+* Other Tools - Internal Tools
+
 
 ## Misc. Information
 
-* Languages: korean (Not bad)
+* Languages: korean (good)
 * Availability: 1 month's notice
