@@ -82,7 +82,7 @@ export default defineUserConfig({
 
     navbar: [
       { text: "101", link: "https://github.com/ppabam/101/issues" },
-      { text: "resume", link: "/src/resume" },
+      { text: "resume", link: "/resume" },
     ],
 
     sidebar: {
