@@ -19,7 +19,7 @@ actions:
     type: secondary
 
   - text: open SOURCE
-    link: /tech/share/opensource
+    link: https://www.notion.so/QA-Test-Guide-aa970eb03fe94553bc9ef06ad5b27994?pvs=4
     type: secondary
 
 features:
