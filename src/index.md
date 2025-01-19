@@ -2,7 +2,7 @@
 home: true
 
 heroImage: /images/fun.jpg
-heroImageDark: /images/work.jpg
+heroImageDark: /images/why.jpg
 
 heroText: 'stundrg@sunsin'
 title: tech blog
