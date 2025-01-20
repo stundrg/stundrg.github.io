@@ -34,7 +34,7 @@
 
 ## Projects 
 
-* Smart Farm Using Arduino
+* Smart Farm Using Arduino [SmartFarm](/pdf/SmartFarm.pdf)
 
 ## Tool Used
 
