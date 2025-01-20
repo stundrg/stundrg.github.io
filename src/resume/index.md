@@ -34,9 +34,9 @@
 
 ## Projects 
 
-* Smart Farm Using Arduino
+* Smart Farm Using Arduino [SmartFarm](/pdf/SmartFarm.pdf)
 
-## Tool Used
+## Tools Used
 
 * Issue Tracking Tools, Documentation Tools - Redmine, Notion
 * Communication Tools - Slack(Little), Teams
