@@ -1,8 +1,8 @@
 ---
 home: true
 
-heroImage: /images/fun.jpg
-heroImageDark: /images/wh.jpg
+heroImage: /images/fun.webp
+heroImageDark: /images/why.webp
 
 heroText: 'stundrg@sunsin'
 title: tech blog
@@ -18,7 +18,7 @@ actions:
     link: /resume
     type: secondary
 
-  - text: About Qa
+  - text: My Accomplishments
     link: https://www.notion.so/QA-Test-Guide-aa970eb03fe94553bc9ef06ad5b27994?pvs=4
     type: secondary
 
