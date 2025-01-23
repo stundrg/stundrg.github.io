@@ -9,13 +9,13 @@ export default defineUserConfig({
   
   lang: 'en-US',
 
-  title: 'team SunSin',
-  description: "주입중... 나는 데이터 엔지니어다.",
+  title: '팀 순신샵 거북이즈',
+  description: "팀 순신샵 소속 개발자 강현룡 중고 신입 개발자, 엔지니어를 만나보세요",
 
   head: [
     ['meta', { property: 'og:type', content: 'website' }],
-    ['meta', { property: 'og:title', content: 'tech-blog:Stundrg' }],
-    ['meta', { property: 'og:description', content: "주입중... 나는 데이터 엔지니어다." }],
+    ['meta', { property: 'og:title', content: '팀 순신샵 소속 강현룡 중고 신입 개발자, 엔지니어의 기술 블로그' }],
+    ['meta', { property: 'og:description', content: "팀 순신샵 소속 강현룡 중고 신입 개발자, 엔지니어의 기술블로그를 만나보세요" }],
     ['meta', { property: 'og:image', content: 'https://stundrg.github.io/images/repository-open-graph-stundrg.png' }],
     ['meta', { property: 'og:url', content: 'https://github.com/stundrg/stundrg.github.io' }],
   ],
@@ -63,7 +63,7 @@ export default defineUserConfig({
       },
     },
 
-    logo: "/images/turtle.jpg",
+    logo: "/images/turtle.webp",
     logoDark: "/images/Darkturtle.webp",
 
     repo: "https://github.com/stundrg/stundrg.github.io/",

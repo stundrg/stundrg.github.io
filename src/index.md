@@ -1,8 +1,8 @@
 ---
 home: true
 
-heroImage: /images/fun.jpg
-heroImageDark: /images/wh.jpg
+heroImage: /images/fun.webp
+heroImageDark: /images/why.webp
 
 heroText: 'stundrg@sunsin'
 title: tech blog
