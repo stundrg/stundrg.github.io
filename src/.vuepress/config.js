@@ -63,7 +63,7 @@ export default defineUserConfig({
       },
     },
 
-    logo: "/images/turtle.webp",
+    logo: "/images/light_turtle.webp",
     logoDark: "/images/Darkturtle.webp",
 
     repo: "https://github.com/stundrg/stundrg.github.io/",
