@@ -4,7 +4,7 @@
 <img src="http://oss.cashmallow.com/images/tiger-cute.svg" alt="tiger cute" style="width:200px;"/>
 
 ### Connecting
-- PRD - https://team-calcalhan.store, https://stundrg.github.io/
+- PRD - https://tech.calcalhan.store, https://stundrg.github.io/
 - STG - https://blog-30d77.web.app/
 - DEV - ?
 - LOCAL - http://localhost:8000
@@ -12,14 +12,14 @@
 ### Contribute guide
 - Anyone can do it's possible. Let's send the PR first and make it a better team by joining.
 
+```
 0. created based on [vuepress](https://v2.vuepress.vuejs.org/)
 1. git clone https://github.com/oss-cashmallow/oss-cashmallow.github.io.git
 2. edit with [vscode](https://code.visualstudio.com/) OR VIM
 3. install
-``` bash
 https://github.com/nvm-sh/nvm
 https://pnpm.io/ko/
-```
+
 4. run - development environment [install pnpm](https://pnpm.io/installation)
 - connecting to localhost 8080
 - node.js install if you have get error 'ELIFECYCLE Command failed'

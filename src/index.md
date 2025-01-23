@@ -2,7 +2,7 @@
 home: true
 
 heroImage: /images/fun.jpg
-heroImageDark: /images/why.jpg
+heroImageDark: /images/wh.jpg
 
 heroText: 'stundrg@sunsin'
 title: tech blog
@@ -18,7 +18,7 @@ actions:
     link: /resume
     type: secondary
 
-  - text: open SOURCE
+  - text: About Qa
     link: https://www.notion.so/QA-Test-Guide-aa970eb03fe94553bc9ef06ad5b27994?pvs=4
     type: secondary
 
