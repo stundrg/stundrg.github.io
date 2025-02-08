@@ -27,8 +27,6 @@ features:
   details: Driven by my passion for continuous learning, I transitioned from a smaller regional university to enhance my skills in data analysis. With 2.5 years of experience as a QA professional, I am now deepening my expertise at a competitive bootcamp in Noryangjin, focused on data-driven technologies and methodologies.
 - title: team SunSin
   details: I’m putting in my best efforts at the bootcamp in Noryangjin, fully committed to preparing for the challenges of the job market and aiming for success!
-- title: mallowLINK
-  details: Traveler's Exchange System Using Overseas Remittance, Network Solution for Financial Institutions
 
 footer: blog@stundrg. 2025.
 ---
